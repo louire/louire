@@ -1,5 +1,5 @@
-### Hi there 👋
-<h2 align="left">Hi 👋! My name is Loui and I'm a Software Developer & Data Analyst from Mexico</h2>
+# Hi there 👋
+<h2 align="left">My name is Loui and I'm a Software Developer & Data Analyst from Mexico</h2>
 
 ###
 
@@ -59,20 +59,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AriDevK/AriDevK/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@louirecio&theme=material-palenight" alt="Layout with last medium posts"  />
-</div>
-
-###
-<--
+<!--
 **louire/louire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
