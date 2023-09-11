@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img align="left" height="250" src="[Imgur](https://i.imgur.com/zbBEszs.png)"  />
+<img align="left" height="250" src="https://i.imgur.com/zbBEszs.png"  />
 
 <img align="right" height="250" src="https://media.tenor.com/_OWMBd1EHdIAAAAd/chaos-child-capybara.gif-watch-pc-gif-24181530"  />
 
