@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as software developer intern that also does data analysis in Johnson Controls<br>- 📚 I'm currently learning python for ML, DL and Data Science<br>- ⚡ In my free time I love to read, play games, watch movies, and share time with my girlfriend</p>
+<p align="left">I'm Loui Recio Izaguirre from México🇲🇽 <br><br>- 🔭 I’m working as software developer intern that also does data analysis in Johnson Controls<br>- 📚 I'm currently learning python for ML, DL and Data Science<br>- ⚡ In my free time I love to read, play games, watch movies, and share time with my girlfriend</p>
 
 ###
 
