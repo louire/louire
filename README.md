@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Currently learning: <br><br><img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" height="40" alt="svelte logo"  />
+<p align="center">Currently learning: <br><br><img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" height="40" alt="svelte logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" height="40" alt="tauri logo"  />
   <img width="12" />
