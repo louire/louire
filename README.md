@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/_OWMBd1EHdIAAAAC/chaos-child-capybara.gif"  />
+  <img height="100" src="https://media.tenor.com/_OWMBd1EHdIAAAAC/chaos-child-capybara.gif"  />
 </div>
 
 ###
@@ -30,6 +30,20 @@
 ###
 
 <p align="left">I'm Loui Recio Izaguirre from México🇲🇽 <br><br>- 🔭 I’m working as software developer intern that also does data analysis in Johnson Controls<br>- 📚 I'm currently learning python for ML, DL and Data Science<br>- ⚡ In my free time I love to read, play games, watch movies, and share time with my girlfriend</p>
+
+###
+
+###
+
+<p align="left">Currently learning: <br><br><img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" height="40" alt="tauri logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" height="40" alt="swift logo"  />
+  <img width="12" />
+</p>
 
 ###
 
