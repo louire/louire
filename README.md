@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>🎯 Goals: Understand functional programming<br>🎲 Fun fact: Sometimes when I code I listen to edm hardstyle<br>📚 I'm currently learning Typescript, Svelte and Elixir <br>🤓 Btw, I use neovim</p>
+<p align="left">✨ Creating bugs since 2018<br>🎯 Goals: Understand functional programming<br>🎲 Fun fact: Sometimes when I code I listen to edm hardstyle<br>📚 I'm currently learning Typescript, Svelte, Elixir & Go <br>🤓 Btw, I use neovim</p>
 
 ###
 
