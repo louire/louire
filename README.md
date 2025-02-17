@@ -11,17 +11,29 @@
     <br><br>
     I'm driven by a fascination with <strong>AI</strong> and <strong>low-level programming</strong>, always seeking to expand my technical horizons and tackle new challenges.
     <br><br>
-    Currently enhancing my skills through comprehensive training at <a href="https://platzi.com/p/louirecioK/">Platzi</a>, where I've completed specialized courses in application security, web development, and data analysis.
+
   </p>
 </div>
 
-I'm particularly interested in:
+#### 💡 Fun Facts
+
+- 💻 Writing code while listening to Pantera, Mexican Rap or Kpop
+- 📚 Currently reading: The Stormlight Archive by Brandon Sanderson
+- 🎮 Favorite way to relax: Play Satisfactory
+- ☕ Powered by: Coffee and Curiosity
+
+#### I'm particularly interested in:
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🔧 Low-level Programming & System Architecture
 - 🌐 Backend Development with Modern Frameworks
 - 📊 Data Analysis & Visualization
+#### 📚 Currently Learning
 
+- 🎯 Advancing in Machine Learning with Python
+- 🦀 Deepening knowledge in Rust for Systems Programming
+- 🎓 Preparing for C1 English Certification
+- ☁️ AWS Cloud Architecture
 
 ### Tech Stack
 
