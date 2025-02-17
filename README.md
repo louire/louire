@@ -1,4 +1,71 @@
-<h1 align="center">🐍hello there🦀</h1>
+<h1 align='center'>👋 Hello!</h1>
+<p align='center'>
+<a href="https://wakatime.com/@louire"><img src="https://wakatime.com/badge/user/2c34ee24-ac72-4071-a56d-151da4738ea3.svg"/></a>
+<a href="https://github.com/louire?tab=repositories"><img src="https://img.shields.io/github/stars/louire?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+<a href="https://leetcode.com/louire/"><img src="https://img.shields.io/badge/LeetCode-louire-FFA116?style=flat&logo=leetcode&logoColor=yellow"/></a>
+</p>
+
+Nice to meet you! I'm Loui Recio, a **curious and self-taught software engineer** with a strong passion for **Python**, **Rust**, and **C#**. I'm driven by a fascination with **AI** and **low-level programming**, always seeking to expand my technical horizons and tackle new challenges.
+
+Currently enhancing my skills through comprehensive training at [Platzi](https://platzi.com/p/louirecioK/), where I've completed specialized courses in application security, web development, and data analysis. I'm particularly interested in:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔧 Low-level Programming & System Architecture
+- 🔒 Application Security & OWASP
+- 🌐 Web Development with Modern Frameworks
+- 📊 Data Analysis & Visualization
+
+### Recent Certifications
+
+- 🛡️ [OWASP Top 10: Application Security Risks](https://platzi.com/p/louirecioK/curso/9342-owasp-top-10/diploma/detalle/)
+- 📊 [Data Analysis with Power BI](https://platzi.com/p/louirecioK/curso/2676-powerbi/diploma/detalle/)
+- 🌐 [Web Development with Blazor and .NET Core 3](https://platzi.com/p/louirecioK/curso/1837-blazor-3/diploma/detalle/)
+- 🔄 [Git and GitHub Fundamentals](https://platzi.com/p/louirecioK/curso/11059-gitgithub/diploma/detalle/)
+
+### Tech Stack
+
+<div align="center">
+ <a href="#"><img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="rust" width="65" height="65" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></a>
+    <a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></a>
+</div>
+
+<div align="center">
+  <a href="#"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="raspberry" width="65" height="65" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></a>
+</div>
+
+### Language Proficiency
+
+Currently at **B2 level** (Upper Intermediate) in English, actively working towards **C1** proficiency through Platzi's English Academy. Focused on technical communication and professional development.
+
+### Let's Connect!
+
+Find me on:
+
+[![GitHub](https://img.shields.io/badge/GitHub-louire-181717?style=flat&logo=github)](https://github.com/louire)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Louis_Recio-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/louis-recio)
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=louire&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=louire&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=louire&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
+**Let's build something amazing together! 🚀**
+
+
+
+
+
+
+<!-- <h1 align="center">🐍hello there🦀</h1>
  
 ###
 
@@ -125,7 +192,7 @@
   <img src="https://streak-stats.demolab.com?user=louire&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
 </div>
 
-###
+### -->
 
 
 
