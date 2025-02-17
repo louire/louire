@@ -98,7 +98,7 @@ Currently at **B2 level** (Upper Intermediate) in English, actively working towa
 Find me on:
 
 [![GitHub](https://img.shields.io/badge/GitHub-louire-181717?style=flat&logo=github)](https://github.com/louire)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Loui_Recio-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/loui-recio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Loui_Recio-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/louirecio)
 
 
 **Let's build something amazing together! 🚀**
