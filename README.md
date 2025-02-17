@@ -48,42 +48,14 @@ I'm particularly interested in:
   <a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></a>
 </div>
 
-### Skills in Detail
 
-```typescript
-{
-  "languages": [
-    "Rust 🦀",
-    "Python 🐍",
-    "C# ⚡",
-    "JavaScript 💛",
-    "SQL 📊"
-  ],
-  "frameworks_and_libraries": [
-    "Django",
-    "React",
-    ".NET Core",
-    "FastAPI"
-  ],
-  "databases": [
-    "PostgreSQL",
-    "MySQL",
-    "SQLite"
-  ],
-  "tools_and_platforms": [
-    "Git",
-    "Docker",
-    "AWS",
-    "Linux",
-    "Raspberry Pi"
-  ],
-  "currently_learning": [
-    "Machine Learning",
-    "Low Level Programming",
-    "System Architecture"
-  ]
-}
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,py,cs,js,react,django,fastapi,docker,aws,git,postgres,linux,raspberrypi&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,py,cs,js,react,django,fastapi,docker,aws,git,postgres,linux,raspberrypi&theme=light" />
+    <img src="https://skillicons.dev/icons?i=rust,py,cs,js,react,django,fastapi,docker,aws,git,postgres,linux,raspberrypi" alt="Skills" />
+  </picture>
+</div>
 
 ###### 💻 Main Technologies
 
@@ -97,6 +69,8 @@ I'm particularly interested in:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Language Proficiency
