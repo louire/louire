@@ -1,18 +1,25 @@
-<h1 align='center'>👋 Hello!</h1>
+<h1 align='center'>🐍Hello there!🦀</h1>
 <p align='center'>
 <a href="https://wakatime.com/@louire"><img src="https://wakatime.com/badge/user/2c34ee24-ac72-4071-a56d-151da4738ea3.svg"/></a>
 <a href="https://github.com/louire?tab=repositories"><img src="https://img.shields.io/github/stars/louire?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 <a href="https://leetcode.com/louire/"><img src="https://img.shields.io/badge/LeetCode-louire-FFA116?style=flat&logo=leetcode&logoColor=yellow"/></a>
 </p>
+<div align="left">
+  <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <p align="left" style="max-width: 500px;">
+    Nice to meet you! I'm Loui Recio, a <strong>curious and self-taught software engineer</strong> with a strong passion for <strong>Python</strong>, <strong>Rust</strong>, and <strong>C#</strong>. 
+    <br><br>
+    I'm driven by a fascination with <strong>AI</strong> and <strong>low-level programming</strong>, always seeking to expand my technical horizons and tackle new challenges.
+    <br><br>
+    Currently enhancing my skills through comprehensive training at <a href="https://platzi.com/p/louirecioK/">Platzi</a>, where I've completed specialized courses in application security, web development, and data analysis.
+  </p>
+</div>
 
-Nice to meet you! I'm Loui Recio, a **curious and self-taught software engineer** with a strong passion for **Python**, **Rust**, and **C#**. I'm driven by a fascination with **AI** and **low-level programming**, always seeking to expand my technical horizons and tackle new challenges.
-
-Currently enhancing my skills through comprehensive training at [Platzi](https://platzi.com/p/louirecioK/), where I've completed specialized courses in application security, web development, and data analysis. I'm particularly interested in:
+I'm particularly interested in:
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🔧 Low-level Programming & System Architecture
-- 🔒 Application Security & OWASP
-- 🌐 Web Development with Modern Frameworks
+- 🌐 Backend Development with Modern Frameworks
 - 📊 Data Analysis & Visualization
 
 ### Recent Certifications
@@ -28,7 +35,7 @@ Currently enhancing my skills through comprehensive training at [Platzi](https:/
  <a href="#"><img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="rust" width="65" height="65" /></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></a>
-    <a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></a>
@@ -41,6 +48,57 @@ Currently enhancing my skills through comprehensive training at [Platzi](https:/
   <a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></a>
 </div>
 
+### Skills in Detail
+
+```typescript
+{
+  "languages": [
+    "Rust 🦀",
+    "Python 🐍",
+    "C# ⚡",
+    "JavaScript 💛",
+    "SQL 📊"
+  ],
+  "frameworks_and_libraries": [
+    "Django",
+    "React",
+    ".NET Core",
+    "FastAPI"
+  ],
+  "databases": [
+    "PostgreSQL",
+    "MySQL",
+    "SQLite"
+  ],
+  "tools_and_platforms": [
+    "Git",
+    "Docker",
+    "AWS",
+    "Linux",
+    "Raspberry Pi"
+  ],
+  "currently_learning": [
+    "Machine Learning",
+    "Low Level Programming",
+    "System Architecture"
+  ]
+}
+```
+
+###### 💻 Main Technologies
+
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+###### 🛠 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ### Language Proficiency
 
 Currently at **B2 level** (Upper Intermediate) in English, actively working towards **C1** proficiency through Platzi's English Academy. Focused on technical communication and professional development.
@@ -50,7 +108,7 @@ Currently at **B2 level** (Upper Intermediate) in English, actively working towa
 Find me on:
 
 [![GitHub](https://img.shields.io/badge/GitHub-louire-181717?style=flat&logo=github)](https://github.com/louire)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Louis_Recio-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/louis-recio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Loui_Recio-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/loui-recio)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=louire&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
