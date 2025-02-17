@@ -22,12 +22,6 @@ I'm particularly interested in:
 - 🌐 Backend Development with Modern Frameworks
 - 📊 Data Analysis & Visualization
 
-### Recent Certifications
-
-- 🛡️ [OWASP Top 10: Application Security Risks](https://platzi.com/p/louirecioK/curso/9342-owasp-top-10/diploma/detalle/)
-- 📊 [Data Analysis with Power BI](https://platzi.com/p/louirecioK/curso/2676-powerbi/diploma/detalle/)
-- 🌐 [Web Development with Blazor and .NET Core 3](https://platzi.com/p/louirecioK/curso/1837-blazor-3/diploma/detalle/)
-- 🔄 [Git and GitHub Fundamentals](https://platzi.com/p/louirecioK/curso/11059-gitgithub/diploma/detalle/)
 
 ### Tech Stack
 
@@ -49,13 +43,6 @@ I'm particularly interested in:
 </div>
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,py,cs,js,react,django,fastapi,docker,aws,git,postgres,linux,raspberrypi&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,py,cs,js,react,django,fastapi,docker,aws,git,postgres,linux,raspberrypi&theme=light" />
-    <img src="https://skillicons.dev/icons?i=rust,py,cs,js,react,django,fastapi,docker,aws,git,postgres,linux,raspberrypi" alt="Skills" />
-  </picture>
-</div>
 
 ###### 💻 Main Technologies
 
@@ -72,10 +59,27 @@ I'm particularly interested in:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Language Proficiency
 
 Currently at **B2 level** (Upper Intermediate) in English, actively working towards **C1** proficiency through Platzi's English Academy. Focused on technical communication and professional development.
+
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=louire&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=louire&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=louire&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
+### Recent Certifications
+
+- 🛡️ [OWASP Top 10: Application Security Risks](https://platzi.com/p/louirecioK/curso/9342-owasp-top-10/diploma/detalle/)
+- 📊 [Data Analysis with Power BI](https://platzi.com/p/louirecioK/curso/2676-powerbi/diploma/detalle/)
+- 🌐 [Web Development with Blazor and .NET Core 3](https://platzi.com/p/louirecioK/curso/1837-blazor-3/diploma/detalle/)
+- 🔄 [Git and GitHub Fundamentals](https://platzi.com/p/louirecioK/curso/11059-gitgithub/diploma/detalle/)
+
 
 ### Let's Connect!
 
@@ -84,11 +88,6 @@ Find me on:
 [![GitHub](https://img.shields.io/badge/GitHub-louire-181717?style=flat&logo=github)](https://github.com/louire)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Loui_Recio-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/loui-recio)
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=louire&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=louire&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=louire&theme=darcula&hide_border=true&background=FFFFFF00">
-</p>
 
 **Let's build something amazing together! 🚀**
 
