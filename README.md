@@ -14,7 +14,7 @@
 
   </p>
   <p </p>
-  <a href="louirecio.com"> Check out my website/portfolio: louirecio.com </a>
+  <a href="https://louirecio.com"> Check out my website/portfolio: louirecio.com </a>
 </div>
 
 #### 💡 Fun Facts
