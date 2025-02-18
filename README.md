@@ -2,7 +2,7 @@
 <p align='center'>
 <a href="https://wakatime.com/@louire"><img src="https://wakatime.com/badge/user/2c34ee24-ac72-4071-a56d-151da4738ea3.svg"/></a>
 <a href="https://github.com/louire?tab=repositories"><img src="https://img.shields.io/github/stars/louire?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
-<a href="https://leetcode.com/louire/"><img src="https://img.shields.io/badge/LeetCode-louire-FFA116?style=flat&logo=leetcode&logoColor=yellow"/></a>
+<a href="https://leetcode.com/u/louirecio/"><img src="https://img.shields.io/badge/LeetCode-louirecio-FFA116?style=flat&logo=leetcode&logoColor=yellow"/></a>
 </p>
 <div align="left">
   <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
