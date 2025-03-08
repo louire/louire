@@ -7,7 +7,7 @@
 <div align="left">
   <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   <p align="left" style="max-width: 500px;">
-    Nice to meet you! I'm Loui Recio, a <strong>curious and self-taught software engineer</strong> with a strong passion for <strong>Python</strong>, <strong>Rust</strong>, and <strong>C#</strong>. 
+    Nice to meet you! I'm Loui Recio, a <strong>curious and self-taught software engineer</strong> with a strong passion for <strong>Python</strong>, <strong>Rust</strong>, <strong>JavaScript</strong> and <strong>C#</strong>. 
     <br><br>
     I'm driven by a fascination with <strong>AI</strong> and <strong>low-level programming</strong>, always seeking to expand my technical horizons and tackle new challenges.
     <br><br>
@@ -20,7 +20,7 @@
 #### 💡 Fun Facts
 
 - 💻 Writing code while listening to Pantera, Mexican Rap or Kpop
-- 📚 Currently reading: The Stormlight Archive by Brandon Sanderson
+- 📚 Currently reading: The Stormlight Archive by Brandon Sanderson 
 - 🎮 Favorite way to relax: Play Satisfactory
 - ☕ Powered by: Coffee and Curiosity
 
