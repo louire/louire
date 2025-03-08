@@ -25,7 +25,7 @@
 - ☕ Powered by: Coffee and Curiosity
 
 #### I'm particularly interested in:
-
+- 🖥️ Backend Development
 - 🤖 Artificial Intelligence & Machine Learning
 - 🔧 Low-level Programming & System Architecture
 - 🌐 Backend Development with Modern Frameworks
